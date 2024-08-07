@@ -1,0 +1,33 @@
+{
+    "users": [
+        {
+            "username": "admin",
+            "email": "admin@example.com",
+            "password": "$2y$10$14ntiAh7qzWUvGldaKuVPO7qF6ubZc7P3M5ky5aipWIrqLHgcEp6u",
+            "is_admin": true,
+            "read_books": [],
+            "last_login": "2024-06-04 20:30:18"
+        },
+        {
+            "username": "Jax",
+            "email": "zhihaoye987@gmail.com",
+            "password": "$2y$10$lYTUdTqUQ1hGInMWImgvcezR4pTkNz3lRih7XzoQb26KCCvb\/M3hu",
+            "is_admin": false,
+            "read_books": [
+                "The 7 Habits of Highly Effective People",
+                "Big Magic",
+                "A Brief History of Humankind"
+            ],
+            "last_login": "2024-06-04 19:43:35"
+        },
+        {
+            "username": "Jessie",
+            "email": "1097312807@qq.com",
+            "password": "$2y$10$zP.Z3h03FgWpV6v.K3EcDe.ysmxF3HGuokwPNI3uE4PHQeY.\/jDta",
+            "is_admin": false,
+            "read_books": [
+                "Big Magic"
+            ]
+        }
+    ]
+}

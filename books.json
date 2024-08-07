@@ -1,0 +1,85 @@
+{
+    "books": [
+        {
+            "title": "Atomic Habits",
+            "author": "James Clear",
+            "year": 2018,
+            "description": "An Easy & Proven Way to Build Good Habits & Break Bad Ones.",
+            "cover_image": "Atomic_Habits.png",
+            "planet": "P3X-1237",
+            "genre": "Self-help"
+        },
+        {
+            "title": "The 7 Habits of Highly Effective People",
+            "author": "Stephen R. Covey",
+            "year": 1989,
+            "description": "Powerful Lessons in Personal Change.",
+            "cover_image": "7Habits.png",
+            "planet": "P3X-5678",
+            "genre": "Self-help"
+        },
+        {
+            "title": "Deep Work",
+            "author": "Cal Newport",
+            "year": 2016,
+            "description": "Rules for Focused Success in a Distracted World.",
+            "cover_image": "deep_work.png",
+            "planet": "P3X-9101",
+            "genre": "Business"
+        },
+        {
+            "title": "The Power of Habit",
+            "author": "Charles Duhigg",
+            "year": 2012,
+            "description": "Why We Do What We Do in Life and Business.",
+            "cover_image": "PowerOfHabit.png",
+            "planet": "P3X-1121",
+            "genre": "Self-help"
+        },
+        {
+            "title": "Thinking, Fast and Slow",
+            "author": "Daniel Kahneman",
+            "year": 2011,
+            "description": "A groundbreaking tour of the mind and explains the two systems that drive the way we think.",
+            "cover_image": "ThinkingFastAndSlow.png",
+            "planet": "P3X-3141",
+            "genre": "Self-help"
+        },
+        {
+            "title": "Big Magic",
+            "author": "Elizabeth Gilbert",
+            "year": 2015,
+            "description": "Creative Living Beyond Fear.",
+            "cover_image": "BigMagic.png",
+            "planet": "P3X-4151",
+            "genre": "Self-help"
+        },
+        {
+            "title": "City of the Gods",
+            "author": "Sonny Whitelaw",
+            "description": "Notes about Argos, the planet originally under the control of the Goa'uld Pelops. A definitive Greek ancestry decorates the structures, as well as the clothing of the Argosians, the planets occupants who prefered to call themselves the Chosen. For some time Pelops operated on the planet, experimenting on the human population, much like Nirrti has done, attempting to expand their lifespan.",
+            "year": 2005,
+            "cover_image": "book_cover_1.png",
+            "planet": "P3X-8596",
+            "genre": "history"
+        },
+        {
+            "title": "The Power Behind The Throne",
+            "author": "Steven Savile",
+            "description": "P3X-797 is a world divided into a dark and light side. The Stargate resides on the dark side of the planet where the Touched exist. The light side is inhabited by the Untouched. A histaminalytic virus inhabits the world, forcing anyone with histamine in their bodies to succumb to primeval tendencies. The leader of the light side is Tuplo.",
+            "year": 2007,
+            "cover_image": "book_cover_2.png",
+            "planet": "P3X-797",
+            "genre": "history"
+        },
+        {
+            "title": "A Brief History of Humankind",
+            "author": "Yuval Noah Harari",
+            "year": 2011,
+            "description": "Explores the history and impact of Homo sapiens.",
+            "cover_image": "book_cover_3.png",
+            "planet": "P4X-1234",
+            "genre": "history"
+        }
+    ]
+}
