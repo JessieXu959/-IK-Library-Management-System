@@ -32,7 +32,7 @@ To run this project locally, please follow the steps below:
 
 First, open your terminal or command prompt and run the following command to clone the repository:
 
-git clone https://github.com/JessieXu959/IK-Library-Management-System.git
+git clone https://github.com/JessieXu959/-IK-Library-Management-System.git
 
 This will create a local copy of the project on your machine.
 
