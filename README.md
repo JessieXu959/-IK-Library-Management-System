@@ -24,4 +24,38 @@ The **IK-Library Management System** is a web-based application where users can 
 
 ---
 
+## Installation and Setup
+
+To run this project locally, please follow the steps below:
+
+### 1. **Clone the Repository**
+
+First, open your terminal or command prompt and run the following command to clone the repository:
+
+```bash
+git clone https://github.com/JessieXu959/IK-Library-Management-System.git
+
+This will create a local copy of the project on your machine.
+
+###2. **Install PHP and Composer**
+If you haven't already installed PHP and Composer, you will need them to run the project.
+
+Download and install Composer:
+If Composer is not installed, download the Composer Installer. You can use the PhpComposerInstaller.exe included in this repository.
+
+To run the installer from this repository, double-click on PhpComposerInstaller.exe and follow the on-screen instructions to install Composer.
+
+###3. **Navigate to the Project Directory**
+Once the project is cloned and Composer is installed, navigate to the project directory:
+
+cd -IK-Library-Management-System
+
+###4. **Run PHP Built-in Server**
+After navigating to the project directory, you can use PHP's built-in server to serve the project locally.
+
+Run the following command to start the server:
+
+php -S localhost:5000
+This will start a local development server on http://localhost:5000. You can open this link in your web browser to view and interact with the project.
+
 
